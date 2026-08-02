@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ainesh10-r/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ainesh10-r/Leetcode-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ainesh10-r/Leetcode-/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ainesh10-r/Leetcode-/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ainesh10-r/Leetcode-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
