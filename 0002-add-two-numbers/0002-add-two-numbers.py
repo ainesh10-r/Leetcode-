@@ -39,4 +39,4 @@ class Solution:
             current.next = ListNode(int(char))
             current = current.next
             
-        return dummy_head.next
+        return dummy_head.next#
