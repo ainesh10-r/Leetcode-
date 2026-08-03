@@ -11,4 +11,4 @@ class Solution:
             seen[char]=right#informs the index about the current postion we are in
             current_len=right-left+1#measures the len from the current postion to the starting position
             max_len=max(max_len,current_len)#finds the maximum len among them through compare 
-        return max_len
+        return max_len##
