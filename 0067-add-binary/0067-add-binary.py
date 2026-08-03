@@ -19,4 +19,4 @@ class Solution:
             carry = total // 2
             result.append(str(total % 2))
             
-        return "".join(reversed(result))
+        return "".join(reversed(result))#
