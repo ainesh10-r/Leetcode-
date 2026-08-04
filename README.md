@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ainesh10-r/Leetcode-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ainesh10-r/Leetcode-/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ainesh10-r/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ainesh10-r/Leetcode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ainesh10-r/Leetcode-/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ainesh10-r/Leetcode-/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ainesh10-r/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ainesh10-r/Leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
