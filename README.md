@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ainesh10-r/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ainesh10-r/Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ainesh10-r/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ainesh10-r/Leetcode-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ainesh10-r/Leetcode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ainesh10-r/Leetcode-/tree/master/0070-climbing-stairs) |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ainesh10-r/Leetcode-/tree/master/0070-climbing-stairs) |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -90,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ainesh10-r/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
