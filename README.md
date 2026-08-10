@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ainesh10-r/Leetcode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ainesh10-r/Leetcode-/tree/master/0070-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ainesh10-r/Leetcode-/tree/master/0070-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,8 +108,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ainesh10-r/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ainesh10-r/Leetcode-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
